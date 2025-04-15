@@ -48,6 +48,31 @@ This repo tracks my journey into learning the Go programming language through ex
 - [Awesome Go](https://github.com/avelino/awesome-go)
 
 ---
+## ▶️ Running & Building Go Code
+
+To run a Go program, place the code in a file like `hello-world.go` and use:
+
+```bash
+$ go run hello-world.go
+hello world
+```
+
+To build our programs into binaries. We can do this using go build.    
+
+```bash
+$ go build hello-world.go
+$ ls
+hello-world    hello-world.go
+```
+
+We can then execute the built binary directly.
+
+```bash
+$ ./hello-world
+hello world
+```
+
+---
 
 ## 📌 Goals
 
