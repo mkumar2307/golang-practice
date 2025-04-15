@@ -42,6 +42,7 @@ This repo tracks my journey into learning the Go programming language through ex
 ## 📚 Resources I'm Using
 
 - [Go Tour](https://tour.golang.org/)
+- [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started#modules)
 - [Go by Example](https://gobyexample.com/)
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Awesome Go](https://github.com/avelino/awesome-go)
